@@ -1,0 +1,38 @@
+[
+    {
+        "id": "d00571cd525a9447",
+        "type": "ui_text",
+        "z": "2cfd5cc5ad5f7a10",
+        "group": "6dcd20930f0f0dd8",
+        "order": 1,
+        "width": "10",
+        "height": "13",
+        "name": "",
+        "label": "第四頁",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 710,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "6dcd20930f0f0dd8",
+        "type": "ui_group",
+        "name": "test4",
+        "tab": "8f05b0b1e728b87d",
+        "order": 4,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8f05b0b1e728b87d",
+        "type": "ui_tab",
+        "name": "你好",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
